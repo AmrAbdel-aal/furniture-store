@@ -7,7 +7,8 @@ export default defineConfig({
   build: {     
 rollupOptions: {   
     external: [  
-       'react-icons/bs',         
+       'react-icons/bs',   
+       'react-icons/fa6',
   ],   
  }, 
   },
